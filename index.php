@@ -9,6 +9,6 @@
 // %20 -> espacio en la url
 
 $nombre = "Neri";
-
+$apellido = "Alvarez";
 echo "Hola mi nombre es ".$nombre;
 ?>
